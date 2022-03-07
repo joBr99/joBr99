@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### In case you found something usefull and want to buy me a :coffee:
+### In case you found something useful and want to buy me a :coffee:
 <a href="https://paypal.me/joBr99" target="_blank"><img src="https://img.shields.io/static/v1?logo=paypal&label=&message=donate&color=slategrey"></a>
 
 <!--
